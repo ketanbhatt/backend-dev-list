@@ -8,12 +8,14 @@
     + [Frontend basics of building a static website](http://www.codecademy.com/en/skills/make-a-website): "Make a website" track at Codecademy
     + [Basic training for Javascript and JQuery](http://www.codecademy.com/en/skills/make-an-interactive-website): "Make an Interactive Website" track on Codecademy
 
+
 + Choose your language
     + [PHP vs Ruby vs Python](http://www.1stwebdesigner.com/php-vs-ruby-vs-python/) : A fantastic lowdown
     + [Opinion 1](http://rz.scale-it.pl/2013/03/08/which_programming_language_should_you_use_for_a_web_backend.html)
     + [Opinion 2](http://matt.aimonetti.net/posts/2013/08/27/what-technology-should-my-startup-use/)
     + [Some more opinions](http://www.quora.com/Django-vs-Rails-vs-Node-js-vs-Code-Igniter-YII-Which-is-better)
     + [Ruby vs Python vs PHP](https://blog.udemy.com/modern-language-wars/) : Infographic on Udemy
+
 
 + [PHP](http://php.net/)
     + [Get a gist of the language](http://www.codecademy.com/en/tracks/php): PHP track on Codecademy
@@ -23,4 +25,102 @@
     + [Build a Simple PHP Application](http://teamtreehouse.com/library/build-a-simple-php-application): course on TeamTreeHouse
     + [Building Your First Simple CMS](http://css-tricks.com/php-for-beginners-building-your-first-simple-cms/)
     + [User Membership With PHP](http://code.tutsplus.com/tutorials/user-membership-with-php--net-1523)
+
+
++ [Python](https://www.python.org/)
+    + [Get a gist of the language](http://www.codecademy.com/en/tracks/python): Python track on Codecademy
+    + [Learn Python The Hard Way](http://learnpythonthehardway.org/book/): Not really. One of the best resource on the internet right now
+    + [A Byte of Python](http://www.swaroopch.com/notes/python/): A good start for beginners
+    + [How to think like a computer scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html): Dive deeper
+    + [List of courses for python](https://wiki.python.org/moin/BeginnersGuide/Programmers): Python Wiki
+    + [List of Books for python](https://wiki.python.org/moin/IntroductoryBooks): Python Wiki
+
+
++ Ruby
+    +
+    +
+    +
+
+
++ Frameworks
+
+    + PHP
+        + Laravel
+            +
+            +
+            +
+        + Wordpress
+            +
+            +
+            +
+        + Drupal
+            +
+            +
+            +
+            +
+            +
+            +
+        + Others
+            +
+            +
+            +
+
+    + Python
+        + Django
+            +
+            +
+            +
+        + Flask
+            +
+            +
+            +
+        + Others
+            +
+            +
+            +
+
+    + Ruby
+        + Rails
+            +
+            +
+            +
+
+
++ Databases
+
+    + SQL
+        +
+        +
+
+    + PostgreSQL
+        +
+        +
+
+    +   MongoDB
+        +
+        +
+
+
++ Deploying
+
+    + PHP
+        +
+        +
+
+    + Python
+        +
+        +
+
+    + Ruby
+        +
+        +
+
+
++ Tools/Set Up
+    +
+    +
+    +
+    +
+    +
+
 
