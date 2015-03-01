@@ -1,6 +1,6 @@
 # Backend Development
 
-+ First things first
++ ####First things first
     + [Frontend vs Backend vs Full Stack](http://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html) : Udacity
     + [Frontend vs Backend](http://stackoverflow.com/questions/636689/difference-between-frontend-backend-and-middleware-in-web-development) : Stack Overflow
     + [Book: The Passionate Programmer](http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344) : Learn how to build your software development career step by step
@@ -9,7 +9,7 @@
     + [Basic training for Javascript and JQuery](http://www.codecademy.com/en/skills/make-an-interactive-website): "Make an Interactive Website" track on Codecademy
 
 
-+ Choose your language
++ ####Choose your language
     + [PHP vs Ruby vs Python](http://www.1stwebdesigner.com/php-vs-ruby-vs-python/) : A fantastic lowdown
     + [Opinion 1](http://rz.scale-it.pl/2013/03/08/which_programming_language_should_you_use_for_a_web_backend.html)
     + [Opinion 2](http://matt.aimonetti.net/posts/2013/08/27/what-technology-should-my-startup-use/)
@@ -17,7 +17,7 @@
     + [Ruby vs Python vs PHP](https://blog.udemy.com/modern-language-wars/) : Infographic on Udemy
 
 
-+ [PHP](http://php.net/)
++ ####[PHP](http://php.net/)
     + [Get a gist of the language](http://www.codecademy.com/en/tracks/php): PHP track on Codecademy
     + [Discussion thread on Reddit](http://www.reddit.com/r/PHP/comments/262469/what_is_the_best_way_to_start_learning_php/): Give it a read
     + [PHP The Right Way](http://www.phptherightway.com/), seriously!
@@ -27,7 +27,7 @@
     + [User Membership With PHP](http://code.tutsplus.com/tutorials/user-membership-with-php--net-1523)
 
 
-+ [Python](https://www.python.org/)
++ ####[Python](https://www.python.org/)
     + [Get a gist of the language](http://www.codecademy.com/en/tracks/python): Python track on Codecademy
     + [Learn Python The Hard Way](http://learnpythonthehardway.org/book/): Not really. One of the best resource on the internet right now
     + [A Byte of Python](http://www.swaroopch.com/notes/python/): A good start for beginners
@@ -36,91 +36,44 @@
     + [List of Books for python](https://wiki.python.org/moin/IntroductoryBooks): Python Wiki
 
 
-+ Ruby
-    +
-    +
-    +
++ ####Ruby
 
 
-+ Frameworks
++ ####Frameworks
 
-    + PHP
+    + #####PHP
         + Laravel
-            +
-            +
-            +
         + Wordpress
-            +
-            +
-            +
         + Drupal
-            +
-            +
-            +
-            +
-            +
-            +
         + Others
-            +
-            +
-            +
 
-    + Python
+    + #####Python
         + Django
-            +
-            +
-            +
         + Flask
-            +
-            +
-            +
         + Others
-            +
-            +
-            +
 
-    + Ruby
+    + #####Ruby
         + Rails
-            +
-            +
-            +
 
 
-+ Databases
++ ####Databases
 
-    + SQL
-        +
-        +
+    + #####SQL
 
-    + PostgreSQL
-        +
-        +
+    + #####PostgreSQL
 
-    +   MongoDB
-        +
-        +
+    + #####MongoDB
 
 
-+ Deploying
++ ####Deploying
 
-    + PHP
-        +
-        +
+    + #####PHP
 
-    + Python
-        +
-        +
+    + #####Python
 
-    + Ruby
-        +
-        +
+    + #####Ruby
 
 
-+ Tools/Set Up
-    +
-    +
-    +
-    +
-    +
++ ####Tools/Set Up
 
 
