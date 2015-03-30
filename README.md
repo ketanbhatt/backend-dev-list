@@ -22,7 +22,7 @@
     + [Discussion thread on Reddit](http://www.reddit.com/r/PHP/comments/262469/what_is_the_best_way_to_start_learning_php/): Give it a read
     + [PHP The Right Way](http://www.phptherightway.com/), seriously!
     + [Comprehensive course for learning PHP for web-development](http://www.lynda.com/MySQL-tutorials/PHP-MySQL-Essential-Training/119003-2.html): "PHP with MySQL Essential Training" course on Lynda
-    + [Build a Simple PHP Application](http://teamtreehouse.com/library/build-a-simple-php-application): course on TeamTreeHouse
+    + [Build a Simple PHP Application](http://teamtreehouse.com/library/build-a-simple-php-application): Course on TeamTreeHouse
     + [Building Your First Simple CMS](http://css-tricks.com/php-for-beginners-building-your-first-simple-cms/)
     + [User Membership With PHP](http://code.tutsplus.com/tutorials/user-membership-with-php--net-1523)
 
@@ -48,7 +48,9 @@
         + Others
 
     + #####Python
-        + Django
+        + [Django](https://www.djangoproject.com/)
+            + [Official Django tutorial](https://docs.djangoproject.com/en/1.7/intro/tutorial01/): Do it, even if you can't make much sense. Helps in giving a good quick overview of the framework
+            + [Tango with Django](http://www.tangowithdjango.com/): One of the best resource for Django.  
         + Flask
         + Others
 
@@ -58,11 +60,18 @@
 
 + ####Databases
 
-    + #####SQL
+    + #####[Database Design](http://code.tutsplus.com/courses/database-design)
+
+    + #####[Relational Databases](http://code.tutsplus.com/courses/relational-databases)
+
+    + #####MySQL
+        + [MySQL Essentials](http://code.tutsplus.com/courses/sql-essentials): Course on Tuts+
 
     + #####PostgreSQL
+        + [PostgreSQL Essentials](http://code.tutsplus.com/courses/postgresql-essentials): Course on Tuts+
 
     + #####MongoDB
+        + [Learn MongoDB](http://code.tutsplus.com/courses/learning-mongodb): Course on Tuts+
 
 
 + ####Deploying
