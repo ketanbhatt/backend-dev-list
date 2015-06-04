@@ -1,6 +1,7 @@
 # Backend Development
 
 + ####First things first
+    + [Any use knowing about Data Structures or Algorithms?](https://twitter.com/KenMazaika/status/602855322173239297) : Go through the article mentioned too
     + [Frontend vs Backend vs Full Stack](http://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html) : Udacity
     + [Frontend vs Backend](http://stackoverflow.com/questions/636689/difference-between-frontend-backend-and-middleware-in-web-development) : Stack Overflow
     + [Book: The Passionate Programmer](http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344) : Learn how to build your software development career step by step
