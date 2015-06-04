@@ -79,6 +79,7 @@ Disclaimer: Hyperlinks age fast, it is something they do. Don't lash out on them
 
     + #####MongoDB
         + [Learn MongoDB](http://code.tutsplus.com/courses/learning-mongodb): Course on Tuts+
+        + [MongoDB University](https://university.mongodb.com/courses/M101P/about): Can their BE a better place to learn from than to learn from the creators themselves? (maybe)
 
 
 + ####Deploying
