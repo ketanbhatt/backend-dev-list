@@ -1,5 +1,7 @@
 # Backend Development
 
+Disclaimer: Hyperlinks age fast, it is something they do. Don't lash out on them, they will get you started. Help others by replacing dead or aged links if you come across them.
+
 + ####First things first
     + [Any use knowing about Data Structures or Algorithms?](https://twitter.com/KenMazaika/status/602855322173239297) : Go through the article mentioned too
     + [Frontend vs Backend vs Full Stack](http://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html) : Udacity
@@ -37,7 +39,9 @@
     + [List of Books for python](https://wiki.python.org/moin/IntroductoryBooks): Python Wiki
 
 
-+ ####Ruby
++ ####[Ruby](https://www.ruby-lang.org/en/)
+    + [Read some good advice](http://www.jasimabasheer.com/posts/meta_introduction_to_ruby.html)
+    + [Learn Ruby The Hard Way](http://learnrubythehardway.org/book/intro.html) : pssst...the title is misleading
 
 
 + ####Frameworks
@@ -56,7 +60,9 @@
         + Others
 
     + #####Ruby
-        + Rails
+        + [Rails]()
+            + [A good read to start off with](https://medium.com/how-i-learned-ruby-rails/how-i-trained-to-learn-rails-e08c94e2a51e)
+            + [The Odin Project](http://www.theodinproject.com/) : One of the most comprehensive path to take for web development using Ruby on Rails
 
 
 + ####Databases
