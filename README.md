@@ -57,7 +57,7 @@ Disclaimer: Hyperlinks age fast, it is something they do. Don't lash out on them
             + [Official Django tutorial](https://docs.djangoproject.com/en/1.7/intro/tutorial01/): Do it, even if you can't make much sense. Helps in giving a good quick overview of the framework
             + [Tango with Django](http://www.tangowithdjango.com/): One of the best resource for Django.  
         + [Flask] (http://flask.pocoo.org/)
-            + [A Microblog with Flask] (http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world): This tutorial will help you get started with flask, strating from simple "Hello World" to the testing and deploying stage.
+            + [A Microblog with Flask] (http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world): This tutorial will help you get started with flask, starting from simple "Hello World" to the testing and deploying stage.
         + [Cherrypy] (http://cherrypy.org/)
         + Others
 
