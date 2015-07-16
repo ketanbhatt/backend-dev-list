@@ -28,6 +28,7 @@
 
 
 + ####[Python](https://www.python.org/)
+    + [Cheat sheet + Quick guide](http://www.stavros.io/tutorials/python/): Recommended for those who are not beginners to programming
     + [Get a gist of the language](http://www.codecademy.com/en/tracks/python): Python track on Codecademy
     + [Learn Python The Hard Way](http://learnpythonthehardway.org/book/): Not really. One of the best resource on the internet right now
     + [A Byte of Python](http://www.swaroopch.com/notes/python/): A good start for beginners
