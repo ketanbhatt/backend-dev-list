@@ -1,6 +1,9 @@
 # Backend Development
 
+Disclaimer: Hyperlinks age fast, it is something they do. Don't lash out on them, they will get you started. Help others by replacing dead or aged links if you come across them.
+
 + ####First things first
+    + [Any use knowing about Data Structures or Algorithms?](https://twitter.com/KenMazaika/status/602855322173239297) : Go through the article mentioned too
     + [Frontend vs Backend vs Full Stack](http://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html) : Udacity
     + [Frontend vs Backend](http://stackoverflow.com/questions/636689/difference-between-frontend-backend-and-middleware-in-web-development) : Stack Overflow
     + [Book: The Passionate Programmer](http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344) : Learn how to build your software development career step by step
@@ -37,7 +40,9 @@
     + [List of Books for python](https://wiki.python.org/moin/IntroductoryBooks): Python Wiki
 
 
-+ ####Ruby
++ ####[Ruby](https://www.ruby-lang.org/en/)
+    + [Read some good advice](http://www.jasimabasheer.com/posts/meta_introduction_to_ruby.html)
+    + [Learn Ruby The Hard Way](http://learnrubythehardway.org/book/intro.html) : pssst...the title is misleading
 
 
 + ####Frameworks
@@ -52,11 +57,15 @@
         + [Django](https://www.djangoproject.com/)
             + [Official Django tutorial](https://docs.djangoproject.com/en/1.7/intro/tutorial01/): Do it, even if you can't make much sense. Helps in giving a good quick overview of the framework
             + [Tango with Django](http://www.tangowithdjango.com/): One of the best resource for Django.  
-        + Flask
+        + [Flask] (http://flask.pocoo.org/)
+            + [A Microblog with Flask] (http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world): This tutorial will help you get started with flask, starting from simple "Hello World" to the testing and deploying stage.
+        + [CherryPy] (http://cherrypy.org/)
         + Others
 
     + #####Ruby
-        + Rails
+        + [Rails]()
+            + [A good read to start off with](https://medium.com/how-i-learned-ruby-rails/how-i-trained-to-learn-rails-e08c94e2a51e)
+            + [The Odin Project](http://www.theodinproject.com/) : One of the most comprehensive path to take for web development using Ruby on Rails
 
 
 + ####Databases
@@ -73,6 +82,7 @@
 
     + #####MongoDB
         + [Learn MongoDB](http://code.tutsplus.com/courses/learning-mongodb): Course on Tuts+
+        + [MongoDB University](https://university.mongodb.com/courses/M101P/about): Can their BE a better place to learn from than to learn from the creators themselves? (maybe)
 
 
 + ####Deploying
